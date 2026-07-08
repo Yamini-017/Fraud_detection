@@ -68,5 +68,20 @@ fraud_detection/
 - Isolation Forest
 - LSTM Neural Network
 - XGBoost
+## Dataset
+
+This project uses the **Credit Card Fraud Detection Dataset** made available by the Machine Learning Group of Université Libre de Bruxelles (ULB).
+
+**Kaggle Dataset:**
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
+### Dataset Information
+
+- **Total Transactions:** 284,807
+- **Fraudulent Transactions:** 492
+- **Features:** 30
+- **Target Variable:** Class
+  - 0 → Legitimate Transaction
+  - 1 → Fraudulent Transaction
 
 These models are combined using an ensemble approach to improve fraud detection accuracy.
